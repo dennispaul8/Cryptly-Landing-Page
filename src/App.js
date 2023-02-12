@@ -46,7 +46,7 @@ function App() {
 
             <div>
               <div className='asset_firstlayer__eth'>
-                <img className='asset_firstlayer__bitcon_img' src='ETH.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='ETH.svg' alt='Eth' />
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>Ethereum</p>
 
@@ -62,7 +62,7 @@ function App() {
 
             <div>
               <div className='asset_firstlayer__bnb'>
-                <img className='asset_firstlayer__bitcon_img' src='BNB.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='BNB.svg' alt='bnb'/>
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>Binance Coin</p>
 
@@ -80,7 +80,7 @@ function App() {
           <div className='asset_secondlayer'>
             <div>
               <div className='asset_firstlayer__eth'>
-                <img className='asset_firstlayer__bitcon_img' src='XRP.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='XRP.svg' alt='xrp' />
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>XRP</p>
 
@@ -96,7 +96,7 @@ function App() {
 
             <div>
               <div className='asset_firstlayer__eth'>
-                <img className='asset_firstlayer__bitcon_img' src='USDT.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='USDT.svg' alt='usdt'/>
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>Tether</p>
 
@@ -112,7 +112,7 @@ function App() {
 
             <div>
               <div className='asset_firstlayer__eth'>
-                <img className='asset_firstlayer__bitcon_img' src='ACT.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='ACT.svg' alt='act' />
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>Achain</p>
 
@@ -130,7 +130,7 @@ function App() {
           <div className='asset_thirdlayer'>
             <div>
               <div className='asset_firstlayer__btc'>
-                <img className='asset_firstlayer__bitcon_img' src='OGN.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='OGN.svg' alt='ogn'/>
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>Origin Protocol</p>
 
@@ -146,7 +146,7 @@ function App() {
 
             <div>
               <div className='asset_firstlayer__eth'>
-                <img className='asset_firstlayer__bitcon_img' src='ITC.svg' />
+                <img className='asset_firstlayer__bitcon_img' src='ITC.svg' alt='itc'/>
                 <div className='asset_firstlayer__bitcon_text'>
                   <p className='asset_firstlayer__bitcon_title'>IoT Chain</p>
 

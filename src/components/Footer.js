@@ -55,7 +55,7 @@ const Footer = () => {
                     <p className={styles.footer_hr_copyright}>Cryptolly ©. All rights reserved.</p>
                     <span className={styles.footer_hr_terms}>
                         <p className={styles.footer_hr_copyright}>Term of Service</p>
-                        <img src='Separator.svg' />
+                        <img src='Separator.svg' alt='vertical line'/>
                         <p className={styles.footer_hr_copyright}>Privacy Policy</p>
                     </span>
                 </div>
