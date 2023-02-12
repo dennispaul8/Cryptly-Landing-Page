@@ -1,0 +1,29 @@
+
+@import url('https://fonts.cdnfonts.com/css/graphik?styles=44660');
+
+.media_list{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 70px;
+}
+.media_list__forbes{
+    width: 587px;
+    height: 252.02px;
+    background: rgba(47, 50, 65, 0.5);
+    border-radius: 12px;
+}
+.media_list__forbes_logo{
+    padding-top: 50px;
+    margin-left: 36%;
+}
+
+.media_list__forbes_text{
+    font-family: 'Graphik', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 27px;
+text-align: center;
+color: #FFFFFF;
+}

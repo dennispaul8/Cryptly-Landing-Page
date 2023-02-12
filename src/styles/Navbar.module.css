@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600&family=Rubik:wght@400;500;600;700&display=swap');
+
+.nav{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  margin-left: 20px;
+}
+.nav_logo__box{
+  margin-left: 30px;
+  margin-top: 41px;
+}
+
+
+.nav_links{
+  width: 50%;
+  margin-top: 18px;
+  margin-left: 170px;
+}
+
+.nav_links_ul{
+    display: flex;
+    gap: 40px;
+  }
+
+  .nav_links_li {
+   list-style-type: none;
+   align-self: center;
+    cursor: pointer;
+  }
+  
+  .nav_links_link {
+    font-family: 'Rubik';
+    color: white;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: 'Rubik', sans-serif;
+  }
+
+  .buttons{
+    margin-top: 25px;
+    display: flex;
+    gap: 10px;
+    margin-left: -190px;
+  }
+
+  .buttons_signin{
+    border: 1px solid #FFFFFF;
+    color: white;
+    border-radius: 100px;
+    font-family: 'Advent Pro', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    height:47px;
+    width: 92px;
+    background-color: rgba(0, 0, 128, 0);
+  }
+
+  .buttons_getstarted{
+    background: linear-gradient(265.56deg, #246CF9 -0.27%, #1E68F6 -0.26%, #0047D0 98.59%);
+    border-radius: 100px;
+    width: 123px;
+    height: 47px;
+    color: #FFFFFF;
+    font-family: 'Advent Pro', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+  }
